@@ -1,0 +1,6 @@
+usuario;22:44:02;true
+login;15:54:51;false
+admin;15:54:59;false
+login;15:55:06;false
+user;15:55:11;false
+usuario;15:55:17;true
